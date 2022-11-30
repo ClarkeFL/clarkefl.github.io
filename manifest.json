@@ -9,7 +9,10 @@
     "short_name": "Delphi",
     "start_url": "/",
     "theme_color": "#24bdff",
-    "categories": [],
+    "categories": [
+        "business",
+        "productivity"
+    ],
     "screenshots": [],
     "icons": [
         {
