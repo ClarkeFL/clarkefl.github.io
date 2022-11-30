@@ -1,0 +1,16 @@
+{
+    "background_color": "#ffffff",
+    "description": "Delphi Measurement App",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "Delphi",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "Delphi",
+    "start_url": "/",
+    "theme_color": "#24bdff",
+    "categories": [],
+    "screenshots": [],
+    "icons": [],
+    "shortcuts": []
+}
