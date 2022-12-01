@@ -1,7 +1,7 @@
 {
     "name": "Clarke Media",
     "short_name": "Clarke",
-    "start_url": "/?home=true",
+    "start_url": "/",
     "display": "standalone",
     "description": "A Test PWA for future developments",
     "lang": "en",
